@@ -1755,14 +1755,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 60px;
-			height: 60px;
+			width: 70px;
+			height: 70px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 60px;
-				height: 60px;
+				width: 70px;
+				height: 70px;
 			}
 
 		.image.fit {
@@ -2083,7 +2083,7 @@ input, select, textarea {
 		}
 
 			#header .icons a {
-				color: #41484c;
+				color: #ffffff;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2169,7 +2169,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #7d76e2;
+						color: #ffff;
 					}
 
 /* Footer */
