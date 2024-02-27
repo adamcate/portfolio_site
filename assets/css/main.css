@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/background.png");
+				background-image: url("../../images/banner.jpeg");
 			}
 
 			#main > section.two {
@@ -2633,7 +2633,7 @@ input, select, textarea {
 	}
 
 	.preamble {
-		background-color: #81918E;
+		background-color: rgba(163, 163, 163, 0.63);
 		border-radius: 30px;
 		width: fit-content;
 		padding: 20px;
